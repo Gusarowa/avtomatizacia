@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+reports/agent.log
+reports/bot.log
+data/profiles.json
+data/subscriptions.json
+data/vacancies_trudvsem.json
+.venv/
+venv/
+.DS_Store

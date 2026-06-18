@@ -1,0 +1,44 @@
+[
+  {
+    "id": 15,
+    "title": "Junior Product Analyst",
+    "company": "AppMetrica",
+    "direction": "data",
+    "level": "junior",
+    "city": "Удалёнка",
+    "remote": "full",
+    "published": "2026-06-14",
+    "salary": 130000,
+    "url": "https://example.com/v/15",
+    "skills": ["sql", "python", "amplitude", "ab-test"],
+    "description": "Продуктовая аналитика мобильного приложения. A/B тесты, когортный анализ, метрики retention и воронки."
+  },
+  {
+    "id": 16,
+    "title": "Стажёр продуктовый аналитик",
+    "company": "GameForge",
+    "direction": "data",
+    "level": "intern",
+    "city": "Москва",
+    "remote": "partial",
+    "published": "2026-06-08",
+    "salary": 65000,
+    "url": "https://example.com/v/16",
+    "skills": ["sql", "excel", "tableau"],
+    "description": "Стажировка: продуктовая аналитика в геймдеве. Считаем метрики, строим дашборды, проверяем гипотезы."
+  },
+  {
+    "id": 5,
+    "title": "Junior Data Engineer",
+    "company": "StreamLab",
+    "direction": "data",
+    "level": "junior",
+    "city": "Удалёнка",
+    "remote": "full",
+    "published": "2026-06-16",
+    "salary": 140000,
+    "url": "https://example.com/v/5",
+    "skills": ["python", "sql", "airflow", "spark"],
+    "description": "Junior data engineer. ETL-пайплайны, Airflow, немного Spark. Удалёнка по РФ."
+  }
+]
